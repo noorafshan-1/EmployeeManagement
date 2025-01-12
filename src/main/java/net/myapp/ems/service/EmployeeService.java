@@ -1,8 +1,8 @@
-package net.javaguides.ems.service;
+package net.myapp.ems.service;
 
 import java.util.List;
 
-import net.javaguides.ems.dto.EmployeeDto;
+import net.myapp.ems.dto.EmployeeDto;
 
 public interface EmployeeService {
 

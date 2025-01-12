@@ -1,4 +1,4 @@
-package net.javaguides.ems.service.impl;
+package net.myapp.ems.service.impl;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -6,12 +6,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import lombok.AllArgsConstructor;
-import net.javaguides.ems.dto.EmployeeDto;
-import net.javaguides.ems.entity.Employee;
-import net.javaguides.ems.exception.ResourceNotFoundException;
-import net.javaguides.ems.mapper.EmployeeMapper;
-import net.javaguides.ems.repository.EmployeeRepository;
-import net.javaguides.ems.service.EmployeeService;
+import net.myapp.ems.dto.EmployeeDto;
+import net.myapp.ems.entity.Employee;
+import net.myapp.ems.exception.ResourceNotFoundException;
+import net.myapp.ems.mapper.EmployeeMapper;
+import net.myapp.ems.repository.EmployeeRepository;
+import net.myapp.ems.service.EmployeeService;
 
 @Service
 @AllArgsConstructor

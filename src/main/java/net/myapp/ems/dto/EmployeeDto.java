@@ -1,4 +1,4 @@
-package net.javaguides.ems.dto;
+package net.myapp.ems.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

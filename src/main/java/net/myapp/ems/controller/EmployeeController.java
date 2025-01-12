@@ -1,4 +1,4 @@
-package net.javaguides.ems.controller;
+package net.myapp.ems.controller;
 
 import java.util.List;
 
@@ -16,9 +16,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import lombok.AllArgsConstructor;
-import net.javaguides.ems.dto.EmployeeDto;
-import net.javaguides.ems.exception.ResourceNotFoundException;
-import net.javaguides.ems.service.EmployeeService;
+import net.myapp.ems.dto.EmployeeDto;
+import net.myapp.ems.exception.ResourceNotFoundException;
+import net.myapp.ems.service.EmployeeService;
 
 @CrossOrigin("*")
 //@AllArgsConstructor

@@ -1,7 +1,7 @@
-package net.javaguides.ems.mapper;
+package net.myapp.ems.mapper;
 
-import net.javaguides.ems.dto.EmployeeDto;
-import net.javaguides.ems.entity.Employee;
+import net.myapp.ems.dto.EmployeeDto;
+import net.myapp.ems.entity.Employee;
 
 public class EmployeeMapper {
 	

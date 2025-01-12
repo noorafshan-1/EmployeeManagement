@@ -1,4 +1,4 @@
-package net.javaguides.ems;
+package net.myapp.ems;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
